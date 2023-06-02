@@ -1,0 +1,17 @@
+li{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    border: 1px solid;
+    margin: 3px;
+    padding: 5px;
+    
+}
+.notcompleted{
+    color: red;
+}
+.active-completed{
+    color: darkblue;
+    font-weight: bold;
+    
+}

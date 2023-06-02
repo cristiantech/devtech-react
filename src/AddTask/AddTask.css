@@ -1,0 +1,18 @@
+.form{
+    border: 1px solid rgb(64, 66, 73);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.AddTask{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+}
+
+.AddTask input[type=text] {
+    padding: 5px;
+}
+.AddTask button{
+    width: 150px;
+}

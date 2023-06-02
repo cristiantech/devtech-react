@@ -1,0 +1,14 @@
+.TodoCounter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cadetblue;
+    color: azure;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: bold;
+}

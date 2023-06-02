@@ -1,8 +1,12 @@
 import React from 'react'
-
-const TodoList = () => {
+import './TodoList.css'
+const TodoList = (props) => {
   return (
-    <div>index</div>
+    <>
+    <ul>
+        {props.children}
+    </ul>
+    </>
   )
 }
 
